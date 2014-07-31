@@ -21,4 +21,4 @@ http://foodiesfeed.com/
 http://picography.co/  
 
 ###Wordpress
-https://github.com/automattic/_s
+http://underscores.me/
