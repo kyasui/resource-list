@@ -34,3 +34,6 @@ http://projects.lukehaas.me/css-loaders/
 
 ###Frameworks
 https://github.com/responsivebp/responsive
+
+###Favicon Generator
+http://realfavicongenerator.net/
