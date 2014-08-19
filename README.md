@@ -20,6 +20,9 @@ http://magdeleine.co/
 http://foodiesfeed.com/  
 http://picography.co/  
 
+###Fonts That Go Together
+http://www.typ.io/
+
 ###Wordpress
 http://underscores.me/
 
