@@ -37,3 +37,6 @@ https://github.com/responsivebp/responsive
 
 ###Favicon Generator
 http://realfavicongenerator.net/
+
+###Hosting
+http://www.divshot.com/
