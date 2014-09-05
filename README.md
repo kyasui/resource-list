@@ -40,3 +40,9 @@ http://realfavicongenerator.net/
 
 ###Hosting
 http://www.divshot.com/
+
+
+##Inspiration
+
+###Zurb's Design Pattern Library
+http://patterntap.com/
