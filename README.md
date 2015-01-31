@@ -21,8 +21,9 @@ http://foodiesfeed.com/
 http://picography.co/  
 https://www.flickr.com/photos/britishlibrary
 
-###Fonts That Go Together
+###Fonts and Type Tools
 http://www.typ.io/
+http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
 
 ###Wordpress
 http://underscores.me/
