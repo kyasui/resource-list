@@ -40,6 +40,9 @@ https://github.com/responsivebp/responsive
 ###Favicon Generator
 http://realfavicongenerator.net/
 
+###Icons
+http://www.transformicons.com/
+
 ###Hosting
 http://www.divshot.com/
 
